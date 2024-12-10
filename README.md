@@ -4,7 +4,10 @@
   - 嘗試以cports.exe 作為參考範例
   - 透過Power shell製作遠端自動化工具
 
-# 目的: 遠端連線主機 (設定traget.txt & ports.txt)
+# 目的: 遠端連線目標主機設定
+  - traget.txt
+  - ports.txt
+
 # 作法: 
   - 程式下載存放桌面
   - 輸入trarget.txt & ports.txt
